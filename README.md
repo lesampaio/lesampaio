@@ -6,6 +6,8 @@ Sou estudante de ciência de dados e adoro desenvolver projetos desafiadores.
 - Análise de dados
 - Visualização de dados
 - Python
+- HTML 
+- CSS
 
 ### Entre em contato comigo
 
