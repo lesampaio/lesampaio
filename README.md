@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo! 👋
 
-Sou estudante de ciência de dados e adoro desenolver projetos desafiadores.
+Sou estudante de ciência de dados e adoro desenvolver projetos desafiadores.
 
 ### Tecnologias
 - Análise de dados
