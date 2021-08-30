@@ -11,7 +11,7 @@ Sou estudante de ciência de dados e adoro desenvolver projetos desafiadores.
 
 ### Entre em contato comigo
 
-<a href="https://www.linkedin.com/in/lesampaio/"><img src="https://github.com/lesampaio/lesampaio/blob/lesampaio/linkedin.png" width="18"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)
+<a href="https://www.linkedin.com/in/lesampaio/"><img src="https://github.com/lesampaio/lesampaio/blob/lesampaio/linkedin.png" width="18"></img></a> [LinkedIn](https://www.linkedin.com/in/lesampaio/)
 
 <center>
 <table>
