@@ -1,6 +1,10 @@
-## Olá, seja bem vindo! 👋
+## Olá, seja bem vindx! 👋
 
-Sou estudante de ciência de dados e adoro desenvolver projetos desafiadores.
+Olá, eu me chamo Letícia e vou te contar um pouco da minha trajetória. Sou estudante do curso de oceanografia e durante uma disciplina conheci análise de dados e python, as ferramentas necessárias para realizar um trabalho de séries temporais. O início foi muito difícil e desafiador, porque eu nunca tinha tido contato com uma linguagem de programação antes, mas ao longo dos meus estudos fui me descobrindo encantada pelo que os algoritmos me possibilitam fazer.
+
+Depois de alguns projetos desenvolvidos na área de análise de dados resolvi adaptar minha carreira ao que eu gosto de fazer: compreender os dados que mundo nos entrega de forma bruta e repassar para a sociedade informações de valor.
+
+Atualmente estou aprofundando meus conhecimentos e conhecendo novas tecnologias, como objetivo de me tornar uma cientista de dados.
 
 ### Tecnologias
 - Análise de dados
