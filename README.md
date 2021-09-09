@@ -9,9 +9,15 @@ Atualmente estou aprofundando meus conhecimentos e conhecendo novas tecnologias 
 ### Tecnologias
 - Análise de dados
 - Visualização de dados
+- Power Bi
 - Python
 - HTML 
 - CSS
+
+### Atualmente estou
+🚀 Procurando por uma oportunidade <br>
+🚀 Estudando ciência de dados <br>
+🚀 Em busca de novos projetos <br>
 
 ### Entre em contato comigo
 
