@@ -1,10 +1,6 @@
 ## Olá, seja bem vindx! 👋
 
-Olá, eu me chamo Letícia e vou te contar um pouco da minha trajetória. Sou estudante do curso de oceanografia e durante uma disciplina conheci análise de dados e python, as ferramentas que eu iria precisar para realizar um trabalho de séries temporais. O início do projeto foi muito difícil e desafiador, porque eu nunca tinha tido contato com uma linguagem de programação antes, mas a caminhada para concluí-lo foi cheia de novos aprendizados e ao longo dos meus estudos fui me descobrindo encantada pelo que os algoritmos me possibilitam fazer. Desde então, venho estudando técnicas e ferramentas da área.
-
-Depois de alguns projetos desenvolvidos em análise de dados resolvi adaptar minha carreira ao que eu gosto de fazer: compreender os dados brutos que mundo nos entrega e repassar para a sociedade informações de valor.
-
-Atualmente estou aprofundando meus conhecimentos e conhecendo novas tecnologias nas plataformas da Alura, Dell Lead e em conteúdos livres da internet. Estou trilhando um caminho para me tornar uma cientista de dados.
+Olá, eu me chamo Letícia. Atualmente estou realizando a especialização de Deep Learning na DeepLearning.AI e aprofundando meus conhecimentos em machine learning. Sou uma cientista de dados em formação e objetivo trazer respostas e soluções que impactem a vida de muitas pessoas de maneira ética.
 
 ### Tecnologias
 - Análise de dados
@@ -15,7 +11,7 @@ Atualmente estou aprofundando meus conhecimentos e conhecendo novas tecnologias 
 - CSS
 
 ### Atualmente estou
-🚀 Procurando por uma oportunidade <br>
+🚀 Bolsista AI/ML @Ford Motor Company <br>
 🚀 Estudando ciência de dados <br>
 🚀 Em busca de novos projetos <br>
 
