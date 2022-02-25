@@ -4,9 +4,10 @@ Olá, eu me chamo Letícia. Atualmente estou realizando a especialização de De
 
 ### Tecnologias
 - Análise de dados
-- Visualização de dados
+- Machine Learning & Inteligência Artificial
 - Power Bi
 - Python
+- SQL
 - HTML 
 - CSS
 
