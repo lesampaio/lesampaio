@@ -1,19 +1,22 @@
 ## Olá, seja bem vindx! 👋
 
-Olá, eu me chamo Letícia. Atualmente estou realizando a especialização de Deep Learning na DeepLearning.AI e aprofundando meus conhecimentos em machine learning. Sou uma cientista de dados em formação e objetivo trazer respostas e soluções que impactem a vida de muitas pessoas de maneira ética.
+Olá, eu me chamo Letícia. Atualmente trabalho como Pesquisadora de Inteligência Artificial e Machine Learning na Ford Motor Company. <br>
+Um pouco mais sobre minha atuação:
+- Desenvolvimento de projetos na área de Inteligência Artificial aplicada a veículos autônomos utilizando Deep Learning, MLOps.
+- Atuação direcionada para visão computacional, com enfoque em: object detection/segmentation, data augmentation e calibração de câmera. 
+- Algumas das tecnologias com as quais trabalho: Python, PyTorch, Docker, HPC, OpenCV.
 
 ### Tecnologias
 - Análise de dados
+- Visão Computacional
 - Machine Learning & Inteligência Artificial
 - Power Bi
 - Python
 - SQL
-- HTML 
-- CSS
 
 ### Atualmente estou
 🚀 Bolsista AI/ML @Ford Motor Company <br>
-🚀 Estudando ciência de dados <br>
+🚀 Estudando ciência de dados e visão computacional <br>
 🚀 Em busca de novos projetos <br>
 
 ### Entre em contato comigo
