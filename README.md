@@ -10,8 +10,7 @@ Um pouco mais sobre minha atuação:
 - Análise de dados
 - Visão Computacional
 - Machine Learning & Inteligência Artificial
-- Power Bi
-- Python
+- Python | C++
 - SQL
 
 ### Atualmente estou
