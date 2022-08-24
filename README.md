@@ -6,7 +6,7 @@ Um pouco mais sobre minha atuação:
 - Atuação direcionada para visão computacional, com enfoque em: object detection/segmentation, data augmentation e calibração de câmera. 
 - Algumas das tecnologias com as quais trabalho: Python, PyTorch, Docker, HPC, OpenCV.
 
-### Tecnologias
+### Principais Ferramentas
 - Análise de dados
 - Visão Computacional
 - Machine Learning & Inteligência Artificial
