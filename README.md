@@ -2,25 +2,22 @@
 
 Olá, eu me chamo Letícia. Atualmente trabalho como Pesquisadora de Inteligência Artificial e Machine Learning na Ford Motor Company. <br>
 Um pouco mais sobre minha atuação:
-- Desenvolvimento de projetos na área de Inteligência Artificial aplicada a veículos autônomos utilizando Deep Learning, MLOps.
-- Atuação direcionada para visão computacional, com enfoque em: object detection/segmentation, data augmentation e calibração de câmera. 
-- Algumas das tecnologias com as quais trabalho: Python, PyTorch, Docker, HPC, OpenCV.
-
-### Principais Ferramentas
-- Análise de dados
-- Visão Computacional
-- Machine Learning & Inteligência Artificial
-- Python | C++
-- SQL
+- Construção de aplicações data-driven para voltados para: i. melhora dos sistemas embarcados ii. evolução das tomadas de decisões do negócio.
+- Desenvolvimento de API Android.
+- Ciência de dados aplicada a big data.
+- Competências: Android · Kotlin · API REST · GitFlow · Ciência de dados · Big data · Sistemas operacionais embarcados
 
 ### Atualmente estou
 🚀 Bolsista AI/ML @Ford Motor Company <br>
-🚀 Estudando ciência de dados e visão computacional <br>
-🚀 Em busca de novos projetos <br>
+🚀 Estudando ciência de dados direcionada a Big Data <br>
+🚀 Estudando Android/Kotlin  <br>
+🚀 Finalizando trabalho de conclusão de curso na área de análise de dados. Em breve repositório disponível.  <br>
 
 ### Entre em contato comigo
 
-<a href="https://www.linkedin.com/in/lesampaio/"><img src="https://github.com/lesampaio/lesampaio/blob/lesampaio/linkedin.png" width="18"></img></a> [LinkedIn](https://www.linkedin.com/in/lesampaio/)
+[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue)](https://www.linkedin.com/in/lesampaio/)
+![email](https://img.shields.io/badge/-EMAIL-critical) leticiasampaio.ds@gmail.com
+
 
 <center>
 <table>
