@@ -3,14 +3,13 @@
 Olá, eu me chamo Letícia. Atualmente trabalho como Pesquisadora de Inteligência Artificial e Machine Learning na Ford Motor Company. <br>
 Um pouco mais sobre minha atuação:
 - Construção de aplicações data-driven para voltados para: i. melhora dos sistemas embarcados ii. evolução das tomadas de decisões do negócio.
-- Desenvolvimento de API Android.
 - Ciência de dados aplicada a big data.
-- Competências: Android · Kotlin · API REST · GitFlow · Ciência de dados · Big data · Sistemas operacionais embarcados
+- Competências: Android · Kotlin · GitFlow · Ciência de dados · Big data · Sistemas operacionais embarcados
 
 ### Atualmente estou
 🚀 Bolsista AI/ML @Ford Motor Company <br>
-🚀 Estudando ciência de dados direcionada a Big Data <br>
-🚀 Estudando Android/Kotlin  <br>
+🚀 Atuando com ciência de dados direcionado a Big Data <br>
+🚀 Atuando com Android/Kotlin  <br>
 🚀 Finalizando trabalho de conclusão de curso na área de análise de dados. Em breve repositório disponível.  <br>
 
 ### Entre em contato comigo
@@ -22,7 +21,6 @@ Um pouco mais sobre minha atuação:
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesampaio&hide=html&layout=compact&theme=buefy" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lesampaio&theme=buefy"/></td>
     </tr>   
 </table>
