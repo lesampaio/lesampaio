@@ -9,7 +9,6 @@ Um pouco mais sobre minha atuação:
 ### Atualmente estou
 🚀 Bolsista AI/ML @Ford Motor Company <br>
 🚀 Atuando com ciência de dados direcionado a Big Data <br>
-🚀 Atuando com Android/Kotlin  <br>
 🚀 Finalizando trabalho de conclusão de curso na área de análise de dados. Em breve repositório disponível.  <br>
 
 ### Entre em contato comigo
