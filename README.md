@@ -4,7 +4,7 @@ Olá, eu me chamo Letícia. Atualmente trabalho como Pesquisadora de Inteligênc
 Um pouco mais sobre minha atuação:
 - Construção de aplicações data-driven para voltados para: i. melhora dos sistemas embarcados ii. evolução das tomadas de decisões do negócio.
 - Ciência de dados aplicada a big data.
-- Competências: Android · Kotlin · GitFlow · Ciência de dados · Big data · Sistemas operacionais embarcados
+- Competências: Python · Alteryx · Qlik Sense · GitFlow · Ciência de dados · Big data · Sistemas operacionais embarcados
 
 ### Atualmente estou
 🚀 Bolsista AI/ML @Ford Motor Company <br>
