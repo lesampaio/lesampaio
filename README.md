@@ -1,17 +1,15 @@
-## Olá, seja bem vindx! 👋
+## Hello, welcome! 👋
 
-Olá, eu me chamo Letícia. Atualmente trabalho como Pesquisadora de Inteligência Artificial e Machine Learning na Ford Motor Company. <br>
-Um pouco mais sobre minha atuação:
-- Construção de aplicações data-driven para voltados para: i. melhora dos sistemas embarcados ii. evolução das tomadas de decisões do negócio.
-- Ciência de dados aplicada a big data.
-- Competências: Python · Alteryx · Qlik Sense · GitFlow · Ciência de dados · Big data · Sistemas operacionais embarcados
+Hello, my name is Leticia. I currently work as an Artificial Intelligence and Machine Learning Researcher at Ford Motor Company and AI/ML Software Developer at Kand-ID.
 
-### Atualmente estou
-🚀 Bolsista AI/ML @Ford Motor Company <br>
-🚀 Atuando com ciência de dados direcionado a Big Data <br>
-🚀 Finalizando trabalho de conclusão de curso na área de análise de dados. Em breve repositório disponível.  <br>
+## Skills
+- Python, R, SQL.
+- GCP, AWS, Terraform, MLFlow.
+- Alteryx, Qlik Sense, Power BI.
+- FastAPI, Docker, Podman.
+- Data Science and Statistics.
 
-### Entre em contato comigo
+### Contact me
 
 [![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue)](https://www.linkedin.com/in/lesampaio/)
 ![email](https://img.shields.io/badge/-EMAIL-critical) leticiasampaio.ds@gmail.com
