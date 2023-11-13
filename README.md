@@ -1,6 +1,6 @@
 ## Hello, welcome! 👋
 
-Hello, my name is Leticia. I currently work as an Artificial Intelligence and Machine Learning Researcher at Ford Motor Company and AI/ML Software Developer at Kand-ID.
+Hello, my name is Letícia. I currently work as an Business Analytics Analyst at Loggi and AI/ML Software Developer at Kand-ID.
 
 ## Skills
 - Python, R, SQL.
