@@ -1,6 +1,6 @@
 ## Hello, welcome! 👋
 
-Hello, my name is Letícia. I currently work as an Business Analytics Analyst at Loggi and AI/ML Software Developer at Kand-ID.
+Hello, I'm Letícia. I currently work as an Business Analytics Analyst at Loggi and AI/ML Software Developer at Kand-ID.
 
 ## Skills
 - Python, R, SQL.
